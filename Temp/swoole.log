@@ -1,0 +1,2 @@
+[2018-11-28 02:41:11 *29767.5]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Cannot declare class App\HttpController\Index, because the name is already in use in /home/www/easyswoole/App/HttpController/Home.php on line 24.
+[2018-11-28 02:41:11 $29749.0]	WARNING	swManager_check_exit_status: worker#5 abnormal exit, status=255, signal=0

@@ -1,12 +1,12 @@
 .idea
-/vendor
-/composer.lock
+./vendor
+./composer.lock
 
-/Log/
-/Temp/
-/Temp2/
-/easyswoole
+./Log/
+./Temp/
+./Temp2/
+./easyswoole
 
-dev.env
+.dev.env
 
-produce.env
+.produce.env

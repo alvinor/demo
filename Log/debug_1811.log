@@ -1,0 +1,2 @@
+18-11-28 15:41:11:Error at file[/home/www/easyswoole/App/HttpController/Home.php] line[24] message:[Cannot declare class App\HttpController\Index, because the name is already in use]
+18-11-28 15:56:27:Error at file[/home/www/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): require onReceive callback]
